@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node -e \"console.log('Building...')\"",
+    "dev": "node -e \"console.log('Dev...')\"",
+    "lint": "node -e \"console.log('Lint OK')\"",
+    "test": "node -e \"console.log('No tests yet')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
